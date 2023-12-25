@@ -40,7 +40,6 @@
 
 ## Evaluation of LLM and LLM-based solutions
 - How to evaluate LLM Applications: [webinar](https://www.youtube.com/watch?v=se5LfCTaVgs)
-- Evaluating LLM-based Applications: a deep dive: [video lesson](Evaluating LLM-based Applications)
 - How to Evaluate, Compare, and Optimize LLM Systems: [article](https://wandb.ai/ayush-thakur/llm-eval-sweep/reports/How-to-Evaluate-Compare-and-Optimize-LLM-Systems--Vmlldzo0NzgyMTQz)
 
 ## Tech stack: frameworks, vector databases, monitoring, production
