@@ -34,6 +34,7 @@
 
 ## RAG (Retrieval Augmented Generation)
 - What is Retrieval Augmented Generation or RAG?: [article](https://www.databricks.com/glossary/retrieval-augmented-generation-rag)
+- Advanced RAG Techniques: [article](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
 - Building and Evaluating Advanced RAG Applications: [short course](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: [paper](https://arxiv.org/pdf/2005.11401.pdf)
 
