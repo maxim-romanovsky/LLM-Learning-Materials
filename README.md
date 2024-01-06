@@ -37,6 +37,7 @@
 - Advanced RAG Techniques: [article](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
 - Building and Evaluating Advanced RAG Applications: [short course](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: [paper](https://arxiv.org/pdf/2005.11401.pdf)
+- Retrieval-Augmented Generation for Large Language Models: A Survey: [paper](https://arxiv.org/abs/2312.10997) and [repo](https://github.com/Tongji-KGLLM/RAG-Survey)
 
 ## Evaluation of LLM and LLM-based solutions
 - How to evaluate LLM Applications: [webinar](https://www.youtube.com/watch?v=se5LfCTaVgs)
