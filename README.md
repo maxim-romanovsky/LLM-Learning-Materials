@@ -9,6 +9,7 @@
 ## NLP
 - Natural Language Processing: [guide](https://www.deeplearning.ai/resources/natural-language-processing/)
 - Natural Language Processing with Deep Learning by Stanford (CS224N): [course](https://web.stanford.edu/class/cs224n/)
+- Yandex Data School NLP course on GitHub: [course](https://github.com/yandexdataschool/nlp_course)
 - Natural Language Processing Specialization by DeepLearning.AI on Coursera: [specialization](https://www.coursera.org/specializations/natural-language-processing)
 
 ## Introduction in LLM (Large Language Models)
