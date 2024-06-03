@@ -24,7 +24,7 @@
 ## Prompt engineering
 - ChatGPT Prompt Engineering for Developers: [short course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - Prompt Engineering Guide: [link](https://www.promptingguide.ai/)
-- Prompt Engineering strategies and tactics by OpenAI: [link)(https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-instructions)
+- Prompt Engineering strategies and tactics by OpenAI: [link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-instructions)
 
 ## LLM training and inference
 - Current Best Practices for Training LLMs from Scratch: [link](https://wandb.ai/site/wp-content/uploads/2023/09/Current-Best-Practices-for-Training-LLMs-from-Scratch-Final.pdf)
