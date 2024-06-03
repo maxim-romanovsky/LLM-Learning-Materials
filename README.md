@@ -59,4 +59,4 @@
 - LMSYS Chatbot arena: [leaderboard](https://chat.lmsys.org/?arena)
 - Hugging Face Open LLM Benchmark: [leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - Hugging Face Embedding Models rating: [leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
-
+- HF LLM Performance Leaderboard: [table](https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard)
