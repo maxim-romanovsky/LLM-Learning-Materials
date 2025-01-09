@@ -41,6 +41,14 @@
 - Retrieval-Augmented Generation for Large Language Models: A Survey: [paper](https://arxiv.org/abs/2312.10997) and [repo](https://github.com/Tongji-KGLLM/RAG-Survey)
 - Building RAG-based LLM Applications for Production: [notebook](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 
+## Agents
+- What is an AI agent: [article](https://blog.langchain.dev/what-is-an-agent/)
+- Large Language Model Agents by Berkeley: [course](http://llmagents-learning.org/f24)
+- The Rise and Potential of Large Language Model Based Agents: A Survey: [paper](https://arxiv.org/abs/2309.07864)
+- Practical Multi AI Agents and Advanced Use Cases with crewAI: [course](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
+- AI Agents in LangGraph: [course](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+- AI Agentic Design Patterns with AutoGen: [course](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+
 ## Evaluation of LLM and LLM-based solutions
 - How to evaluate LLM Applications: [webinar](https://www.youtube.com/watch?v=se5LfCTaVgs)
 - How to Evaluate, Compare, and Optimize LLM Systems: [article](https://wandb.ai/ayush-thakur/llm-eval-sweep/reports/How-to-Evaluate-Compare-and-Optimize-LLM-Systems--Vmlldzo0NzgyMTQz)
