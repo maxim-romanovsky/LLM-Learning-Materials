@@ -43,6 +43,7 @@
 
 ## Agents
 - What is an AI agent: [article](https://blog.langchain.dev/what-is-an-agent/)
+- Hugging Face Agents Course: [link](https://huggingface.co/agents-course)
 - Large Language Model Agents by Berkeley: [course](http://llmagents-learning.org/f24)
 - The Rise and Potential of Large Language Model Based Agents: A Survey: [paper](https://arxiv.org/abs/2309.07864)
 - Practical Multi AI Agents and Advanced Use Cases with crewAI: [course](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
