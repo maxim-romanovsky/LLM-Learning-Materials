@@ -69,3 +69,4 @@
 - Hugging Face Open LLM Benchmark: [leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - Hugging Face Embedding Models rating: [leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - HF LLM Performance Leaderboard: [table](https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard)
+- Scale Seal Leaderboards: [link](https://scale.com/leaderboard)
